@@ -1,0 +1,20 @@
+[
+  {
+    "Fname": "Samer",
+    "Lname": "Abo samra",
+    "Email": "Samer32@gmail.com",
+    "Address": {
+      "StreerNumber": 100,
+      "City": 25
+    }
+  },
+  {
+    "Fname": "Ahmad",
+    "Lname": "Abo Hmid",
+    "Email": "Ahmad32@gmail.com",
+    "Address": {
+      "StreerNumber": 70,
+      "City": 10
+    }
+  }
+]
